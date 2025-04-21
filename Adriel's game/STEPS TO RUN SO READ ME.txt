@@ -1,8 +1,0 @@
-1. open cmd.
-
-2. enter the following command: cd C:\Users\'your user'\'where ever the folder is'\Adriel's game
-(the path should change to the one you just typed)
-
-3. enter the following command: .\sigma.bat
-
-4. enjoy!

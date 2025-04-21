@@ -1,3 +1,0 @@
-"correct" sound cuts off after "ohh" 
-"wrong" sound does not play when incorrect
-thats all i got for now.
