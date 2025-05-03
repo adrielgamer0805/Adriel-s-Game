@@ -19,11 +19,11 @@ if /i "%answer%"=="Paris" (
    set /a score+=1
    color 0A
    echo Correct!
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\right.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\right.mp3"
 ) else (
    color 0C
    echo Wrong! The capital of France is Paris.
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\wrong.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\wrong.mp3"
 )
 nircmd.exe wait 6000
 timeout /t 3 >nul
@@ -37,11 +37,11 @@ if "%answer%"=="12" (
    set /a score+=1
    color 0A
    echo Correct!
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\right.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\right.mp3"
 ) else (
    color 0C
    echo Wrong! 5 + 7 is 12.
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\wrong.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\wrong.mp3"
 )
 nircmd.exe wait 6000
 timeout /t 3 >nul
@@ -55,11 +55,11 @@ if /i "%answer%"=="H2O" (
    set /a score+=1
    color 0A
    echo Correct!
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\right.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\right.mp3"
 ) else (
    color 0C
    echo Wrong! The chemical symbol for water is H2O.
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\wrong.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\wrong.mp3"
 )
 nircmd.exe wait 6000
 timeout /t 3 >nul
@@ -73,11 +73,11 @@ if /i "%answer%"=="Harper Lee" (
    set /a score+=1
    color 0A
    echo Correct!
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\right.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\right.mp3"
 ) else (
    color 0C
    echo Wrong! 'To Kill a Mockingbird' was written by Harper Lee.
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\wrong.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\wrong.mp3"
 )
 nircmd.exe wait 6000
 timeout /t 3 >nul
@@ -91,11 +91,11 @@ if /i "%answer%"=="Jupiter" (
    set /a score+=1
    color 0A
    echo Correct!
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\right.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\right.mp3"
 ) else (
    color 0C
    echo Wrong! The largest planet in our Solar System is Jupiter.
-   nircmd.exe mediaplay 1000 "C:\Users\chini\OneDrive\Desktop\Adriel's game\sounds\wrong.mp3"
+   nircmd.exe mediaplay 1000 "type-ur-location\Adriel's game\sounds\wrong.mp3"
 )
 nircmd.exe wait 6000
 timeout /t 3 >nul
